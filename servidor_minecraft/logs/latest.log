@@ -1577,3 +1577,75 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Dec2024 00:19:11.668] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67e3a06f[id=<null>,name=gerR3219,properties={},legacy=false] (/100.77.1.1:50971) lost connection: Connection closed - mismatched mod channel list
 [08Dec2024 00:21:55.658] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30e5473c[id=<null>,name=gerR3219,properties={},legacy=false] (/100.77.1.1:51201) lost connection: Disconnected
 [08Dec2024 00:22:26.757] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6166632[id=<null>,name=gerR3219,properties={},legacy=false] (/100.77.1.1:51210) lost connection: Disconnected
+[08Dec2024 00:30:25.410] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[08Dec2024 00:30:25.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gerR3219[/100.77.1.1:51587] logged in with entity id 52 at (-400.5, 70.0, 120.5)
+[08Dec2024 00:30:25.569] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gerR3219
+[08Dec2024 00:30:25.572] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gerR3219
+[08Dec2024 00:30:25.573] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gerR3219
+[08Dec2024 00:30:25.573] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gerR3219
+[08Dec2024 00:30:25.587] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gerR3219
+[08Dec2024 00:30:25.592] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gerR3219
+[08Dec2024 00:30:25.592] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gerR3219
+[08Dec2024 00:30:25.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 joined the game
+[08Dec2024 00:30:26.418] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[08Dec2024 00:30:26.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [King Of The Mobsters]
+[08Dec2024 00:30:26.856] [Server thread/INFO] [Jade/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[08Dec2024 00:30:27.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [Ice and Fire]
+[08Dec2024 00:30:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [A Hero Is Born]
+[08Dec2024 00:30:27.550] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[08Dec2024 00:30:27.555] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[08Dec2024 00:30:27.561] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 065037b0-ed5d-3132-be60-4d8fe8b3f69d was loaded
+[08Dec2024 00:30:27.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[08Dec2024 00:30:44.578] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[08Dec2024 00:30:45.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 065037b0-ed5d-3132-be60-4d8fe8b3f69d
+[08Dec2024 00:30:45.582] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d) successfully connected to voice chat
+[08Dec2024 00:30:49.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6510ms or 130 ticks behind
+[08Dec2024 00:31:59.861] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: setexgamer[/100.98.149.45:50289] logged in with entity id 744 at (-395.5, 70.0, 133.5)
+[08Dec2024 00:31:59.914] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to setexgamer
+[08Dec2024 00:31:59.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to setexgamer
+[08Dec2024 00:31:59.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to setexgamer
+[08Dec2024 00:31:59.919] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to setexgamer
+[08Dec2024 00:31:59.928] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to setexgamer
+[08Dec2024 00:31:59.936] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to setexgamer
+[08Dec2024 00:31:59.937] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to setexgamer
+[08Dec2024 00:31:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer joined the game
+[08Dec2024 00:32:00.480] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[08Dec2024 00:32:00.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [King Of The Mobsters]
+[08Dec2024 00:32:00.610] [Server thread/INFO] [Jade/]: Syncing config to setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107)
+[08Dec2024 00:32:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Ice and Fire]
+[08Dec2024 00:32:00.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [A Hero Is Born]
+[08Dec2024 00:32:03.304] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of setexgamer (18)
+[08Dec2024 00:32:03.305] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to setexgamer
+[08Dec2024 00:32:03.474] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was loaded
+[08Dec2024 00:32:42.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[08Dec2024 00:32:43.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
+[08Dec2024 00:32:43.282] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
+[08Dec2024 00:33:13.637] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Dec2024 00:33:13.697] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[08Dec2024 00:34:06.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Monster Hunter]
+[08Dec2024 00:35:02.729] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gerR3219 lost connection: Disconnected
+[08Dec2024 00:35:02.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 left the game
+[08Dec2024 00:35:02.732] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 065037b0-ed5d-3132-be60-4d8fe8b3f69d was unloaded
+[08Dec2024 00:35:02.735] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
+[08Dec2024 00:35:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Zombie
+[08Dec2024 00:35:36.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made setexgamer a server operator
+[08Dec2024 00:36:20.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[08Dec2024 00:37:04.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gerR3219[/100.77.1.1:51857] logged in with entity id 2071 at (-487.3148768970339, 61.41714035487921, 118.43691619985157)
+[08Dec2024 00:37:04.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gerR3219
+[08Dec2024 00:37:04.680] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gerR3219
+[08Dec2024 00:37:04.684] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gerR3219
+[08Dec2024 00:37:04.684] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gerR3219
+[08Dec2024 00:37:04.691] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gerR3219
+[08Dec2024 00:37:04.696] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gerR3219
+[08Dec2024 00:37:04.703] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gerR3219
+[08Dec2024 00:37:04.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 joined the game
+[08Dec2024 00:37:05.600] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[08Dec2024 00:37:05.614] [Server thread/INFO] [Jade/]: Syncing config to gerR3219 (065037b0-ed5d-3132-be60-4d8fe8b3f69d)
+[08Dec2024 00:37:06.054] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of gerR3219 (18)
+[08Dec2024 00:37:06.055] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to gerR3219
+[08Dec2024 00:37:06.055] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 065037b0-ed5d-3132-be60-4d8fe8b3f69d was loaded
+[08Dec2024 00:37:21.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported gerR3219 to setexgamer]
+[08Dec2024 00:37:33.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gerR3219 lost connection: Disconnected
+[08Dec2024 00:37:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 left the game
+[08Dec2024 00:37:33.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 065037b0-ed5d-3132-be60-4d8fe8b3f69d was unloaded
+[08Dec2024 00:37:33.233] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client gerR3219
