@@ -13120,3 +13120,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [07Dec2024 23:53:35.537] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$railways$findNearbyConductors$0(Lnet/minecraft/world/phys/Vec3;Lcom/simibubi/create/content/equipment/toolbox/ToolboxBlockEntity;Lcom/simibubi/create/content/equipment/toolbox/ToolboxBlockEntity;)I to md457e7a$lambda$railways$findNearbyConductors$0$0 in railways-common.mixins.json:MixinToolboxHandler
 [07Dec2024 23:58:35.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Dec2024 23:58:35.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 00:03:35.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:03:35.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 00:08:35.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:08:35.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
