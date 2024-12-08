@@ -1666,3 +1666,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Dec2024 05:21:07.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
 [08Dec2024 05:21:40.250] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [08Dec2024 05:23:23.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Gave 1 [Feather] to setexgamer]
+[08Dec2024 05:25:22.103] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand D4CEntity['Dirty Deeds Done Dirt Cheap'/9276, l='ServerLevel[world]', x=-1541.31, y=72.00, z=-1027.66]
+[08Dec2024 05:25:25.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[08Dec2024 05:25:48.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[08Dec2024 05:25:52.552] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand D4CEntity['Dirty Deeds Done Dirt Cheap'/9511, l='ServerLevel[world]', x=-1546.14, y=72.00, z=-1030.65]
+[08Dec2024 05:25:55.021] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand SilverChariotEntity['Silver Chariot'/9515, l='ServerLevel[world]', x=-1545.47, y=72.00, z=-1028.56]
+[08Dec2024 05:25:58.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[08Dec2024 05:26:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[08Dec2024 05:29:15.887] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7023, l='ServerLevel[world]', x=-1552.30, y=64.00, z=-995.87] died, message: 'Farmer was slain by Iron Golem'
+[08Dec2024 05:33:47.012] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/6818, l='ServerLevel[world]', x=-1517.50, y=72.00, z=-1039.36] died, message: 'Farmer was slain by Swarmer'
+[08Dec2024 05:33:57.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/6929, l='ServerLevel[world]', x=-1514.65, y=72.00, z=-1028.28] died, message: 'Leatherworker was slain by Swarmer'
+[08Dec2024 05:37:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer blew up
+[08Dec2024 05:37:55.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Pumpkin Sir]
+[08Dec2024 05:39:53.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Best Friends Forever]

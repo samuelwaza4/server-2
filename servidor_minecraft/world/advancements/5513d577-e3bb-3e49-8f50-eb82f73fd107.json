@@ -2461,6 +2461,7 @@
     "criteria": {
       "sweetpotato_seed": "2024-12-08 05:19:09 +0000",
       "tomato_seed": "2024-12-08 00:47:51 +0000",
+      "chile_pepper_seed": "2024-12-08 05:30:03 +0000",
       "tomatillo_seed": "2024-12-08 00:40:20 +0000",
       "spinach_seed": "2024-12-08 00:40:30 +0000"
     },
@@ -3847,7 +3848,10 @@
     "criteria": {
       "cooked_mutton": "2024-12-08 01:07:36 +0000",
       "beef": "2024-12-08 00:50:16 +0000",
-      "mutton": "2024-12-08 00:53:12 +0000"
+      "potato": "2024-12-08 05:30:40 +0000",
+      "mutton": "2024-12-08 00:53:12 +0000",
+      "bread": "2024-12-08 05:27:11 +0000",
+      "golden_apple": "2024-12-08 05:29:53 +0000"
     },
     "done": false
   },
@@ -5999,6 +6003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-08 05:13:02 +0000"
@@ -6035,6 +6045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
@@ -6044,6 +6060,12 @@
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2024-12-08 05:19:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-08 05:23:23 +0000"
     },
     "done": true
   },
@@ -6068,6 +6090,18 @@
   "constructionwand:recipes/tools/diamond_wand": {
     "criteria": {
       "has_item": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2024-12-08 05:37:55 +0000"
+    },
+    "done": false
+  },
+  "jcraft:recipes/misc/kq_coin": {
+    "criteria": {
+      "has_nugget": "2024-12-08 05:20:57 +0000"
     },
     "done": true
   },
@@ -6137,9 +6171,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/pepperoni": {
+    "criteria": {
+      "has_pepper": "2024-12-08 05:29:54 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/requiem_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-08 05:23:55 +0000"
     },
     "done": true
   },
@@ -6233,6 +6279,30 @@
     },
     "done": true
   },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2024-12-08 05:23:23 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-08 05:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_avocado_toast": {
+    "criteria": {
+      "has_avocado": "2024-12-08 05:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-08 05:19:38 +0000"
@@ -6257,6 +6327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/french_fries": {
     "criteria": {
       "has_potato": "2024-12-08 05:19:38 +0000"
@@ -6266,6 +6342,12 @@
   "jcraft:recipes/combat/anubis_sheathed": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stand_disc": {
+    "criteria": {
+      "has_arrow": "2024-12-08 05:23:55 +0000"
     },
     "done": true
   },
@@ -6293,6 +6375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 05:20:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
@@ -6305,6 +6393,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/living_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-08 05:23:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-08 05:13:02 +0000"
@@ -6314,6 +6408,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stand_arrow": {
+    "criteria": {
+      "has_arrowhead": "2024-12-08 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
     },
     "done": true
   },
@@ -6341,6 +6447,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2024-12-08 05:23:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
@@ -6353,9 +6465,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-08 05:20:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/quesadilla": {
+    "criteria": {
+      "has_avocado": "2024-12-08 05:22:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2024-12-08 05:23:23 +0000"
     },
     "done": true
   },
@@ -6455,9 +6591,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 05:20:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-08 05:23:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2024-12-08 05:23:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-12-08 05:23:23 +0000"
     },
     "done": true
   },
@@ -6476,6 +6636,12 @@
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/chile_pepper_seed": {
+    "criteria": {
+      "has_chile_pepper": "2024-12-08 05:29:54 +0000"
     },
     "done": true
   },
@@ -6509,9 +6675,21 @@
     },
     "done": true
   },
+  "constructionwand:recipes/misc/core_angel": {
+    "criteria": {
+      "has_item": "2024-12-08 05:23:23 +0000"
+    },
+    "done": true
+  },
   "nethersdelight:recipes/tools/diamond_machete": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2024-12-08 05:37:55 +0000"
     },
     "done": true
   },
@@ -6529,7 +6707,8 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
-      "sweetpotato_seed": "2024-12-08 05:19:09 +0000"
+      "sweetpotato_seed": "2024-12-08 05:19:09 +0000",
+      "chile_pepper_seed": "2024-12-08 05:30:03 +0000"
     },
     "done": false
   },
@@ -6542,6 +6721,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_chile_peppers": "2024-12-08 05:29:54 +0000"
     },
     "done": true
   },
