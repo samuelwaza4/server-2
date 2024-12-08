@@ -1679,3 +1679,130 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Dec2024 05:37:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer blew up
 [08Dec2024 05:37:55.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Pumpkin Sir]
 [08Dec2024 05:39:53.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Best Friends Forever]
+[08Dec2024 05:44:30.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Skeleton
+[08Dec2024 05:45:03.983] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[08Dec2024 05:45:03.984] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[08Dec2024 05:46:44.501] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: move is marked non-null but is null
+	Index: 1
+	Listeners:
+		0: HIGH
+		1: ASM: class dev.architectury.event.forge.EventHandlerImplCommon event(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		2: NORMAL
+		3: net.minecraftforge.eventbus.EventBus$$Lambda/0x0000773108c1dbd0@e322f3
+		4: ASM: class com.legacy.blue_skies.events.SkiesEvents onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		5: ASM: class dev.shadowsoffire.placebo.util.PlaceboTaskQueue tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		6: ASM: net.mcreator.psychadelic.PsychadelicMod@7d9dd4f7 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		7: ASM: class tschipp.carryon.events.CommonEvents onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		8: ASM: com.mrcrayfish.framework.event.ForgeEvents@2df57bd7 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		9: ASM: net.mcreator.kingofthemobsters.KomMod@2c065bfc tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		10: ASM: stepsword.mahoutsukai.handlers.ServerHandler@b04226c serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		11: ASM: net.minecraftforge.common.ForgeInternalHandler@5800fc3 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		12: net.minecraftforge.eventbus.EventBus$$Lambda/0x0000773108c1dbd0@240b9b0e
+		13: net.minecraftforge.eventbus.EventBus$$Lambda/0x0000773108c1dbd0@5d8fe381
+		14: ASM: com.brandon3055.draconicevolution.handlers.DEEventHandler@279daba5 serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		15: ASM: net.mcreator.borninchaosv.BornInChaosV1Mod@42aa8b14 tick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		16: ASM: class com.hollingsworth.arsnouveau.api.event.EventQueue serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		17: ASM: class net.geforcemods.securitycraft.SCEventHandler onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		18: ASM: class io.redspace.ironsspellbooks.api.util.CameraShakeManager serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		19: ASM: class com.mrh0.createaddition.event.GameEvents serverTickEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		20: net.minecraftforge.eventbus.EventBus$$Lambda/0x0000773108c1dbd0@71f74de
+		21: ASM: class com.simibubi.create.foundation.events.CommonEvents onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		22: net.minecraftforge.eventbus.EventBus$$Lambda/0x0000773108c1dbd0@1ef22a74
+		23: ASM: journeymap.common.events.forge.ForgeServerEvents@3ca2b26b onServerTickEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		24: ASM: class com.direwolf20.mininggadgets.common.events.ServerTickHandler handleTickEndEvent(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		25: ASM: com.brandon3055.brandonscore.api.TimeKeeper@22d62421 serverTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+		26: LOWEST
+		27: ASM: com.github.alexthe666.citadel.ServerProxy@398b8b10 onServerTick(Lnet/minecraftforge/event/TickEvent$ServerTickEvent;)V
+java.lang.NullPointerException: move is marked non-null but is null
+	at TRANSFORMER/jcraft@0.15.4/net.arna.jcraft.common.tickable.FrameDataRequests.sendFrameData(FrameDataRequests.java:110)
+	at TRANSFORMER/jcraft@0.15.4/net.arna.jcraft.common.tickable.FrameDataRequests.lambda$tick$0(FrameDataRequests.java:98)
+	at TRANSFORMER/jcraft@0.15.4/net.arna.jcraft.common.tickable.TickableHashMap.tick(TickableHashMap.java:48)
+	at TRANSFORMER/jcraft@0.15.4/net.arna.jcraft.common.tickable.FrameDataRequests.tick(FrameDataRequests.java:51)
+	at TRANSFORMER/jcraft@0.15.4/net.arna.jcraft.common.events.JServerEvents.serverPostTick(JServerEvents.java:94)
+	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:733)
+	at TRANSFORMER/architectury@9.2.14/dev.architectury.event.EventFactory.invokeMethod(EventFactory.java:53)
+	at TRANSFORMER/architectury@9.2.14/dev.architectury.event.EventFactory$1.handleInvocation(EventFactory.java:62)
+	at MC-BOOTSTRAP/com.google.common@31.1-jre/com.google.common.reflect.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:87)
+	at TRANSFORMER/jdk.proxy3/jdk.proxy3.$Proxy125.tick(Unknown Source)
+	at TRANSFORMER/architectury@9.2.14/dev.architectury.event.forge.EventHandlerImplCommon.event(EventHandlerImplCommon.java:75)
+	at TRANSFORMER/architectury@9.2.14/dev.architectury.event.forge.__EventHandlerImplCommon_event_ServerTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:950)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:835)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[08Dec2024 05:46:44.503] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Encountered an unexpected exception
+java.lang.NullPointerException: move is marked non-null but is null
+	at net.arna.jcraft.common.tickable.FrameDataRequests.sendFrameData(FrameDataRequests.java:110) ~[jcraft-forge-0.15.4.jar%23270!/:?]
+	at net.arna.jcraft.common.tickable.FrameDataRequests.lambda$tick$0(FrameDataRequests.java:98) ~[jcraft-forge-0.15.4.jar%23270!/:?]
+	at net.arna.jcraft.common.tickable.TickableHashMap.tick(TickableHashMap.java:48) ~[jcraft-forge-0.15.4.jar%23270!/:?]
+	at net.arna.jcraft.common.tickable.FrameDataRequests.tick(FrameDataRequests.java:51) ~[jcraft-forge-0.15.4.jar%23270!/:?]
+	at net.arna.jcraft.common.events.JServerEvents.serverPostTick(JServerEvents.java:94) ~[jcraft-forge-0.15.4.jar%23270!/:?]
+	at java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:733) ~[?:?]
+	at dev.architectury.event.EventFactory.invokeMethod(EventFactory.java:53) ~[architectury-9.2.14-forge.jar%23219!/:?]
+	at dev.architectury.event.EventFactory$1.handleInvocation(EventFactory.java:62) ~[architectury-9.2.14-forge.jar%23219!/:?]
+	at com.google.common.reflect.AbstractInvocationHandler.invoke(AbstractInvocationHandler.java:87) ~[guava-31.1-jre.jar%2374!/:?]
+	at jdk.proxy3.$Proxy125.tick(Unknown Source) ~[?:?]
+	at dev.architectury.event.forge.EventHandlerImplCommon.event(EventHandlerImplCommon.java:75) ~[architectury-9.2.14-forge.jar%23219!/:?]
+	at dev.architectury.event.forge.__EventHandlerImplCommon_event_ServerTickEvent.invoke(.dynamic) ~[architectury-9.2.14-forge.jar%23219!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onPostServerTick(ForgeEventFactory.java:950) ~[forge-1.20.1-47.3.7-universal.jar%23326!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:835) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23321!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08Dec2024 05:46:44.554] [Server thread/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID d0c8eab0-e47b-4219-8f40-01cd00c1095d
+[08Dec2024 05:46:44.555] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: This crash report has been saved to: /workspaces/server-2/servidor_minecraft/./crash-reports/crash-2024-12-08_05.46.44-server.txt
+[08Dec2024 05:46:44.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Dec2024 05:46:44.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Dec2024 05:46:44.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Dec2024 05:46:45.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Dec2024 05:46:46.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[08Dec2024 05:46:46.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[08Dec2024 05:46:46.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[08Dec2024 05:46:46.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[08Dec2024 05:46:46.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[08Dec2024 05:46:46.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[08Dec2024 05:46:46.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/jcraft:audim
+[08Dec2024 05:46:46.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[08Dec2024 05:46:46.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[08Dec2024 05:46:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/heroes:pocket_dimension
+[08Dec2024 05:46:46.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Dec2024 05:46:46.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Dec2024 05:46:46.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[08Dec2024 05:46:46.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[08Dec2024 05:46:46.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[08Dec2024 05:46:46.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[08Dec2024 05:46:46.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[08Dec2024 05:46:46.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[08Dec2024 05:46:46.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[08Dec2024 05:46:46.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Dec2024 05:46:46.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[08Dec2024 05:46:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[08Dec2024 05:46:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[08Dec2024 05:46:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[08Dec2024 05:46:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[08Dec2024 05:46:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[08Dec2024 05:46:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (audim): All chunks are saved
+[08Dec2024 05:46:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[08Dec2024 05:46:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[08Dec2024 05:46:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[08Dec2024 05:46:46.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Dec2024 05:46:46.566] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Dec2024 05:46:46.567] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[08Dec2024 05:46:46.589] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

@@ -2463,7 +2463,8 @@
       "tomato_seed": "2024-12-08 00:47:51 +0000",
       "chile_pepper_seed": "2024-12-08 05:30:03 +0000",
       "tomatillo_seed": "2024-12-08 00:40:20 +0000",
-      "spinach_seed": "2024-12-08 00:40:30 +0000"
+      "spinach_seed": "2024-12-08 00:40:30 +0000",
+      "corn_seed": "2024-12-08 05:42:55 +0000"
     },
     "done": false
   },
@@ -6003,6 +6004,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/popcorn_from_smoking_corn": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
@@ -6057,6 +6070,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2024-12-08 05:19:39 +0000"
@@ -6072,6 +6091,12 @@
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-08 05:39:53 +0000"
     },
     "done": true
   },
@@ -6098,6 +6123,12 @@
       "squireofthe_dark_lord_6": "2024-12-08 05:37:55 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
   },
   "jcraft:recipes/misc/kq_coin": {
     "criteria": {
@@ -6129,6 +6160,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2024-12-08 05:42:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
@@ -6141,6 +6178,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_the_recipe": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/sweet_potato_fries": {
     "criteria": {
       "has_sweetpotatos": "2024-12-08 05:19:09 +0000"
@@ -6150,6 +6193,12 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2024-12-08 05:01:44 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
     },
     "done": true
   },
@@ -6345,6 +6394,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/popcorn_from_corn": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
   "jcraft:recipes/misc/stand_disc": {
     "criteria": {
       "has_arrow": "2024-12-08 05:23:55 +0000"
@@ -6357,6 +6412,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/corn_seed": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
@@ -6366,6 +6427,12 @@
   "jcraft:recipes/misc/stellar_iron_ingot_from_smelting": {
     "criteria": {
       "has_ore": "2024-12-08 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_bread": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
     },
     "done": true
   },
@@ -6519,6 +6586,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-08 05:04:09 +0000"
@@ -6633,6 +6706,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2024-12-08 05:43:37 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
@@ -6648,6 +6727,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-08 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2024-12-08 05:43:37 +0000"
     },
     "done": true
   },
@@ -6708,7 +6793,8 @@
   "croptopia:gather_plains": {
     "criteria": {
       "sweetpotato_seed": "2024-12-08 05:19:09 +0000",
-      "chile_pepper_seed": "2024-12-08 05:30:03 +0000"
+      "chile_pepper_seed": "2024-12-08 05:30:03 +0000",
+      "corn_seed": "2024-12-08 05:42:55 +0000"
     },
     "done": false
   },
@@ -6727,6 +6813,12 @@
   "croptopia:recipes/paprika": {
     "criteria": {
       "has_chile_peppers": "2024-12-08 05:29:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2024-12-08 05:42:57 +0000"
     },
     "done": true
   },
