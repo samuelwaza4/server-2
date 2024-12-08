@@ -1672,3 +1672,31 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Dec2024 00:42:38.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Stone Age]
 [08Dec2024 00:42:48.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [Getting an Upgrade]
 [08Dec2024 00:43:14.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Getting an Upgrade]
+[08Dec2024 00:50:44.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Acquire Hardware]
+[08Dec2024 00:51:02.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [Acquire Hardware]
+[08Dec2024 00:51:05.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Not Today, Thank You]
+[08Dec2024 00:51:23.456] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
+[08Dec2024 00:51:23.457] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
+[08Dec2024 00:51:23.458] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
+[08Dec2024 00:53:47.027] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/6437, l='ServerLevel[world]', x=-691.74, y=-39.00, z=-274.32]
+[08Dec2024 00:53:47.029] [Server thread/WARN] [jcraft/]: Prevented stopRiding() call for recently created PurpleHazeEntity['Purple Haze'/6437, l='ServerLevel[world]', x=-691.74, y=-39.00, z=-274.32]
+[08Dec2024 00:55:18.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Sweet Dreams]
+[08Dec2024 00:55:26.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 has made the advancement [Sweet Dreams]
+[08Dec2024 00:56:38.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Zombie
+[08Dec2024 00:56:45.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[08Dec2024 00:56:56.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Zombie
+[08Dec2024 00:56:58.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was slain by Zombie
+[08Dec2024 00:56:59.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-609, y=24, z=-227}
+[08Dec2024 00:57:02.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[08Dec2024 00:57:02.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
+[08Dec2024 00:57:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was retired
+[08Dec2024 00:57:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was retired
+[08Dec2024 00:57:33.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set gerR3219's game mode to Survival Mode]
+[08Dec2024 00:57:33.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[08Dec2024 00:57:38.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[08Dec2024 00:57:39.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[08Dec2024 00:57:41.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gerR3219 was retired
+[08Dec2024 00:57:46.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Apothic Affixes]
+[08Dec2024 00:57:46.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [How'd You Get This?]
+[08Dec2024 00:57:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Spectator Mode]
+[08Dec2024 00:57:56.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
