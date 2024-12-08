@@ -1598,3 +1598,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [08Dec2024 20:55:08.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5513d577-e3bb-3e49-8f50-eb82f73fd107
 [08Dec2024 20:55:08.170] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player setexgamer (5513d577-e3bb-3e49-8f50-eb82f73fd107) successfully connected to voice chat
 [08Dec2024 21:03:19.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has reached the goal [Exorcism]
+[08Dec2024 21:10:44.850] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/2555, l='ServerLevel[world]', x=-1433.79, y=65.14, z=-951.87] died: Honeyed Archer was retired
+[08Dec2024 21:16:21.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [The Parrots and the Bats]
