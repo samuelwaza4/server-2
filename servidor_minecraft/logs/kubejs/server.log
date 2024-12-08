@@ -1,19 +1,19 @@
-[04:54:04] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[04:54:04] [INIT] Loaded plugins:
-[04:54:04] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[04:54:04] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
-[04:54:04] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[04:54:04] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[04:54:04] [INFO] Loaded script server_scripts:example.js in 0.001 s
-[04:54:04] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_theft.js in 0.002 s
-[04:54:04] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_hud.js in 0.001 s
-[04:54:04] [INFO] Loaded script addonpack_heroes:kubejs_scripts/spatial_travel_command.js in 0.001 s
-[04:54:04] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_death.js in 0.001 s
-[04:54:04] [INFO] addonpack_heroes:kubejs_scripts/prevent_damage.js#8: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket'
-[04:54:04] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_damage.js in 0.002 s
-[04:54:04] [INFO] Loaded script addonpack_heroes:kubejs_scripts/intuitive_teach.js in 0.001 s
-[04:54:04] [INFO] Loaded script addonpack_heroes:kubejs_scripts/heroes_superpower_command.js in 0.001 s
-[04:54:04] [INFO] Loaded script addonpack_heroes:kubejs_scripts/clairvoyance.js in 0.004 s
-[04:54:04] [INFO] Loaded 9/9 KubeJS server scripts in 0.036 s with 0 errors and 0 warnings
-[04:54:04] [INFO] Scripts loaded
-[04:54:23] [INFO] Server resource reload complete!
+[20:50:26] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[20:50:26] [INIT] Loaded plugins:
+[20:50:26] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[20:50:26] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[20:50:26] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[20:50:26] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[20:50:26] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[20:50:26] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_theft.js in 0.002 s
+[20:50:26] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_hud.js in 0.001 s
+[20:50:26] [INFO] Loaded script addonpack_heroes:kubejs_scripts/spatial_travel_command.js in 0.001 s
+[20:50:26] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_death.js in 0.001 s
+[20:50:26] [INFO] addonpack_heroes:kubejs_scripts/prevent_damage.js#8: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket'
+[20:50:26] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_damage.js in 0.002 s
+[20:50:26] [INFO] Loaded script addonpack_heroes:kubejs_scripts/intuitive_teach.js in 0.001 s
+[20:50:26] [INFO] Loaded script addonpack_heroes:kubejs_scripts/heroes_superpower_command.js in 0.001 s
+[20:50:26] [INFO] Loaded script addonpack_heroes:kubejs_scripts/clairvoyance.js in 0.004 s
+[20:50:26] [INFO] Loaded 9/9 KubeJS server scripts in 0.034 s with 0 errors and 0 warnings
+[20:50:26] [INFO] Scripts loaded
+[20:50:50] [INFO] Server resource reload complete!

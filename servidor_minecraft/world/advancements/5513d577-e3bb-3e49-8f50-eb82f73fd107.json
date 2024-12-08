@@ -1731,6 +1731,7 @@
       "minecraft:frozen_ocean": "2024-12-08 05:03:56 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-08 05:03:34 +0000",
       "minecraft:snowy_beach": "2024-12-08 05:15:36 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-08 06:43:52 +0000",
       "minecraft:plains": "2024-12-08 05:02:19 +0000"
     },
     "done": false
@@ -1925,6 +1926,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-08 00:51:10 +0000",
       "minecraft:spider": "2024-12-08 01:05:53 +0000",
+      "minecraft:witch": "2024-12-08 07:07:25 +0000",
       "minecraft:zombie": "2024-12-08 00:34:06 +0000"
     },
     "done": false
@@ -2461,10 +2463,15 @@
     "criteria": {
       "sweetpotato_seed": "2024-12-08 05:19:09 +0000",
       "tomato_seed": "2024-12-08 00:47:51 +0000",
+      "pepper_seed": "2024-12-08 05:56:07 +0000",
       "chile_pepper_seed": "2024-12-08 05:30:03 +0000",
       "tomatillo_seed": "2024-12-08 00:40:20 +0000",
+      "soybean_seed": "2024-12-08 07:07:47 +0000",
+      "barley_seed": "2024-12-08 05:58:05 +0000",
       "spinach_seed": "2024-12-08 00:40:30 +0000",
-      "corn_seed": "2024-12-08 05:42:55 +0000"
+      "corn_seed": "2024-12-08 05:42:55 +0000",
+      "oat_seed": "2024-12-08 05:54:37 +0000",
+      "mustard_seed": "2024-12-08 05:56:13 +0000"
     },
     "done": false
   },
@@ -3849,6 +3856,7 @@
     "criteria": {
       "cooked_mutton": "2024-12-08 01:07:36 +0000",
       "beef": "2024-12-08 00:50:16 +0000",
+      "apple": "2024-12-08 05:59:59 +0000",
       "potato": "2024-12-08 05:30:40 +0000",
       "mutton": "2024-12-08 00:53:12 +0000",
       "bread": "2024-12-08 05:27:11 +0000",
@@ -5944,9 +5952,15 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+  "spartanweaponry:collect_heads": {
     "criteria": {
-      "has_item": "2024-12-08 05:13:02 +0000"
+      "skeleton_skull": "2024-12-08 05:01:16 +0000"
+    },
+    "done": false
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-08 05:01:44 +0000"
     },
     "done": true
   },
@@ -5986,12 +6000,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/potato_chips": {
-    "criteria": {
-      "has_potato": "2024-12-08 05:19:38 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
@@ -6004,51 +6012,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/food/popcorn_from_smoking_corn": {
-    "criteria": {
-      "has_corn": "2024-12-08 05:42:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_shepherds_pie": {
-    "criteria": {
-      "has_corn": "2024-12-08 05:42:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2024-12-08 05:12:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-08 05:19:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
-    "criteria": {
-      "has_sweetpotato": "2024-12-08 05:19:09 +0000"
     },
     "done": true
   },
@@ -6058,45 +6024,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/campfire_popcorn": {
-    "criteria": {
-      "has_corn": "2024-12-08 05:42:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_toast": {
-    "criteria": {
-      "has_bread": "2024-12-08 05:19:39 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2024-12-08 05:23:23 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2024-12-08 05:39:53 +0000"
     },
     "done": true
   },
@@ -6118,36 +6054,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_6": "2024-12-08 05:37:55 +0000"
-    },
-    "done": false
-  },
-  "croptopia:recipes/corn_husk": {
-    "criteria": {
-      "has_corn": "2024-12-08 05:42:55 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/kq_coin": {
-    "criteria": {
-      "has_nugget": "2024-12-08 05:20:57 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/stand_arrowhead": {
-    "criteria": {
-      "has_ingot": "2024-12-08 05:08:21 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-08 05:13:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
@@ -6160,89 +6066,11 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/orange_sapling": {
-    "criteria": {
-      "has_orange": "2024-12-08 05:42:57 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
     },
     "done": true
-  },
-  "aether:recipes/tools/diamond_pickaxe_repairing": {
-    "criteria": {
-      "has_diamond_pickaxe": "2024-12-08 05:04:29 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/candied_nuts": {
-    "criteria": {
-      "has_the_recipe": "2024-12-08 05:42:55 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/sweet_potato_fries": {
-    "criteria": {
-      "has_sweetpotatos": "2024-12-08 05:19:09 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2024-12-08 05:01:44 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/candy_corn": {
-    "criteria": {
-      "has_corn": "2024-12-08 05:42:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2024-12-08 05:19:38 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/skyroot_lectern": {
-    "criteria": {
-      "has_book": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/pepperoni": {
-    "criteria": {
-      "has_pepper": "2024-12-08 05:29:54 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/requiem_arrow": {
-    "criteria": {
-      "has_arrow": "2024-12-08 05:23:55 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "skeleton_skull": "2024-12-08 05:01:16 +0000"
-    },
-    "done": false
   },
   "spartanweaponry:recipes/diamond_saber": {
     "criteria": {
@@ -6256,27 +6084,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2024-12-08 05:13:00 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_boomerang": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/stellar_iron_ingot_from_blasting": {
-    "criteria": {
-      "has_ore": "2024-12-08 05:04:45 +0000"
     },
     "done": true
   },
@@ -6286,81 +6096,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/toast_from_smoking_bread": {
-    "criteria": {
-      "has_bread": "2024-12-08 05:19:39 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/building_blocks/stellar_iron_block": {
-    "criteria": {
-      "has_ingot": "2024-12-08 05:08:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/skyroot_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/sweetpotato_seed": {
-    "criteria": {
-      "has_sweetpotato": "2024-12-08 05:19:09 +0000"
-    },
-    "done": true
-  },
-  "chiselsandbits:recipes/tools/quill": {
-    "criteria": {
-      "has_tag_a": "2024-12-08 05:23:23 +0000"
-    },
-    "done": true
-  },
-  "jcraft:obtain_stand_arrow": {
-    "criteria": {
-      "has_arrow": "2024-12-08 05:23:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/shaped_avocado_toast": {
-    "criteria": {
-      "has_avocado": "2024-12-08 05:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2024-12-08 05:19:38 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/campfire_baked_sweet_potato": {
-    "criteria": {
-      "has_sweetpotato": "2024-12-08 05:19:09 +0000"
     },
     "done": true
   },
@@ -6370,39 +6108,9 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/french_fries": {
-    "criteria": {
-      "has_potato": "2024-12-08 05:19:38 +0000"
-    },
-    "done": true
-  },
   "jcraft:recipes/combat/anubis_sheathed": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/popcorn_from_corn": {
-    "criteria": {
-      "has_corn": "2024-12-08 05:42:55 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/stand_disc": {
-    "criteria": {
-      "has_arrow": "2024-12-08 05:23:55 +0000"
     },
     "done": true
   },
@@ -6412,27 +6120,9 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/corn_seed": {
-    "criteria": {
-      "has_corn": "2024-12-08 05:42:55 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/stellar_iron_ingot_from_smelting": {
-    "criteria": {
-      "has_ore": "2024-12-08 05:04:45 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/corn_bread": {
-    "criteria": {
-      "has_corn": "2024-12-08 05:42:55 +0000"
     },
     "done": true
   },
@@ -6442,57 +6132,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-08 05:20:57 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/maple_bookshelf": {
-    "criteria": {
-      "has_item": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/living_arrow": {
-    "criteria": {
-      "has_arrow": "2024-12-08 05:23:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
-    },
-    "done": true
-  },
-  "jcraft:recipes/misc/stand_arrow": {
-    "criteria": {
-      "has_arrowhead": "2024-12-08 05:21:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
-    "criteria": {
-      "has_sweetpotato": "2024-12-08 05:19:09 +0000"
     },
     "done": true
   },
@@ -6508,18 +6156,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_paper": "2024-12-08 05:13:00 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/bolt": {
-    "criteria": {
-      "has_feather": "2024-12-08 05:23:23 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
@@ -6532,45 +6168,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/food/gold_pile": {
-    "criteria": {
-      "has_item": "2024-12-08 05:20:57 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/quesadilla": {
-    "criteria": {
-      "has_avocado": "2024-12-08 05:22:25 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/copper_bolt": {
-    "criteria": {
-      "has_feather": "2024-12-08 05:23:23 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/stackable_book": {
-    "criteria": {
-      "has_stackable_book": "2024-12-08 05:13:02 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2024-12-08 05:13:00 +0000"
     },
     "done": true
   },
@@ -6586,39 +6186,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/flour": {
-    "criteria": {
-      "has_grain": "2024-12-08 05:42:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-08 05:04:09 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2024-12-08 05:18:45 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_glaive": {
     "criteria": {
       "has_diamond": "2024-12-08 05:04:09 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/food/toast_from_bread": {
-    "criteria": {
-      "has_bread": "2024-12-08 05:19:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/book_of_lore": {
-    "criteria": {
-      "has_book": "2024-12-08 05:13:02 +0000"
     },
     "done": true
   },
@@ -6646,9 +6222,322 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/tools/diamond_machete": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-08 05:04:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-08 05:04:29 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stellar_iron_ingot_from_blasting": {
+    "criteria": {
+      "has_ore": "2024-12-08 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stellar_iron_ingot_from_smelting": {
+    "criteria": {
+      "has_ore": "2024-12-08 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_meteorite_iron_ore": {
+    "criteria": {
+      "has_ore": "2024-12-08 05:04:45 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/stand_arrowhead": {
+    "criteria": {
+      "has_ingot": "2024-12-08 05:08:21 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/building_blocks/stellar_iron_block": {
+    "criteria": {
+      "has_ingot": "2024-12-08 05:08:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-08 05:12:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-08 05:12:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-08 05:13:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2024-12-08 05:13:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2024-12-08 05:18:45 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_smoking_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2024-12-08 05:19:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/sweet_potato_fries": {
+    "criteria": {
+      "has_sweetpotatos": "2024-12-08 05:19:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/sweetpotato_seed": {
+    "criteria": {
+      "has_sweetpotato": "2024-12-08 05:19:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_baked_sweet_potato": {
+    "criteria": {
+      "has_sweetpotato": "2024-12-08 05:19:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/baked_sweet_potato_from_sweetpotato": {
+    "criteria": {
+      "has_sweetpotato": "2024-12-08 05:19:09 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "sweetpotato_seed": "2024-12-08 05:19:09 +0000",
+      "pepper_seed": "2024-12-08 05:56:07 +0000",
+      "chile_pepper_seed": "2024-12-08 05:30:03 +0000",
+      "corn_seed": "2024-12-08 05:42:55 +0000",
+      "oat_seed": "2024-12-08 05:54:37 +0000",
+      "mustard_seed": "2024-12-08 05:56:13 +0000",
+      "barley_seed": "2024-12-08 05:58:05 +0000",
+      "soybean_seed": "2024-12-08 07:07:47 +0000"
+    },
+    "done": false
+  },
+  "croptopia:recipes/potato_chips": {
+    "criteria": {
+      "has_potato": "2024-12-08 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-08 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-08 05:19:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/french_fries": {
+    "criteria": {
+      "has_potato": "2024-12-08 05:19:38 +0000"
     },
     "done": true
   },
@@ -6658,9 +6547,39 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_jukebox": {
+  "croptopia:recipes/campfire_toast": {
     "criteria": {
-      "has_diamond": "2024-12-08 05:04:09 +0000"
+      "has_bread": "2024-12-08 05:19:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-08 05:19:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-08 05:19:39 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/kq_coin": {
+    "criteria": {
+      "has_nugget": "2024-12-08 05:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-08 05:20:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-08 05:20:57 +0000"
     },
     "done": true
   },
@@ -6670,9 +6589,45 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+  "jcraft:recipes/misc/stand_arrow": {
     "criteria": {
-      "has_book": "2024-12-08 05:13:02 +0000"
+      "has_arrowhead": "2024-12-08 05:21:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_avocado_toast": {
+    "criteria": {
+      "has_avocado": "2024-12-08 05:22:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/quesadilla": {
+    "criteria": {
+      "has_avocado": "2024-12-08 05:22:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-08 05:23:23 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/quill": {
+    "criteria": {
+      "has_tag_a": "2024-12-08 05:23:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2024-12-08 05:23:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2024-12-08 05:23:23 +0000"
     },
     "done": true
   },
@@ -6694,27 +6649,39 @@
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/comet_bookshelf": {
+  "constructionwand:recipes/misc/core_angel": {
     "criteria": {
-      "has_item": "2024-12-08 05:13:02 +0000"
+      "has_item": "2024-12-08 05:23:23 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+  "jcraft:recipes/misc/requiem_arrow": {
     "criteria": {
-      "has_item": "2024-12-08 05:13:00 +0000"
+      "has_arrow": "2024-12-08 05:23:55 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/peach_sapling": {
+  "jcraft:obtain_stand_arrow": {
     "criteria": {
-      "has_peach": "2024-12-08 05:43:37 +0000"
+      "has_arrow": "2024-12-08 05:23:55 +0000"
     },
     "done": true
   },
-  "spartanshields:recipes/diamond_tower_shield": {
+  "jcraft:recipes/misc/stand_disc": {
     "criteria": {
-      "has_diamond": "2024-12-08 05:04:09 +0000"
+      "has_arrow": "2024-12-08 05:23:55 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/living_arrow": {
+    "criteria": {
+      "has_arrow": "2024-12-08 05:23:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pepperoni": {
+    "criteria": {
+      "has_pepper": "2024-12-08 05:29:54 +0000"
     },
     "done": true
   },
@@ -6724,9 +6691,141 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
+  "croptopia:recipes/paprika": {
     "criteria": {
-      "cave_tablet": "2024-12-08 05:12:49 +0000"
+      "has_chile_peppers": "2024-12-08 05:29:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-08 05:30:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2024-12-08 05:37:55 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2024-12-08 05:37:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-08 05:39:53 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_smoking_corn": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_shepherds_pie": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_popcorn": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/corn_husk": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_the_recipe": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/popcorn_from_corn": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_seed": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/corn_bread": {
+    "criteria": {
+      "has_corn": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-12-08 05:42:55 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_sapling": {
+    "criteria": {
+      "has_orange": "2024-12-08 05:42:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_juice": {
+    "criteria": {
+      "has_orange": "2024-12-08 05:42:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2024-12-08 05:43:37 +0000"
     },
     "done": true
   },
@@ -6736,89 +6835,699 @@
     },
     "done": true
   },
-  "jcraft:obtain_meteorite_iron_ore": {
+  "croptopia:recipes/oatmeal": {
     "criteria": {
-      "has_ore": "2024-12-08 05:04:45 +0000"
+      "has_oats": "2024-12-08 05:54:37 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/sand_paper": {
+  "croptopia:recipes/misc/oat_seed": {
     "criteria": {
-      "has_item": "2024-12-08 05:13:00 +0000"
+      "has_oat": "2024-12-08 05:54:37 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
+  "apotheosis:affix/rare": {
     "criteria": {
-      "has_item": "2024-12-08 05:13:02 +0000"
+      "sword": "2024-12-08 05:55:44 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
+  "croptopia:recipes/chilli_relleno": {
     "criteria": {
-      "has_item": "2024-12-08 05:13:00 +0000"
+      "has_pepper": "2024-12-08 05:56:07 +0000"
     },
     "done": true
   },
-  "constructionwand:recipes/misc/core_angel": {
+  "croptopia:recipes/misc/pepper_seed": {
     "criteria": {
-      "has_item": "2024-12-08 05:23:23 +0000"
+      "has_pepper": "2024-12-08 05:56:07 +0000"
     },
     "done": true
   },
-  "nethersdelight:recipes/tools/diamond_machete": {
+  "croptopia:recipes/misc/mustard_seed": {
     "criteria": {
-      "has_diamond": "2024-12-08 05:04:09 +0000"
+      "has_mustard": "2024-12-08 05:56:13 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:pumpkin_sir": {
+  "croptopia:recipes/misc/apple_juice": {
     "criteria": {
-      "pumpkin_sir_0": "2024-12-08 05:37:55 +0000"
+      "has_apple": "2024-12-08 05:56:49 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "has_diamond": "2024-12-08 05:04:09 +0000"
+      "has_apple": "2024-12-08 05:56:49 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_book": {
+  "croptopia:recipes/misc/apple_sapling": {
     "criteria": {
-      "cave_book": "2024-12-08 05:13:00 +0000"
+      "has_apple": "2024-12-08 05:56:49 +0000"
     },
     "done": true
   },
-  "croptopia:gather_plains": {
+  "croptopia:recipes/misc/apple_pie": {
     "criteria": {
-      "sweetpotato_seed": "2024-12-08 05:19:09 +0000",
-      "chile_pepper_seed": "2024-12-08 05:30:03 +0000",
-      "corn_seed": "2024-12-08 05:42:55 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-08 05:13:00 +0000"
+      "has_apple": "2024-12-08 05:56:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "croptopia:recipes/fruit_salad": {
     "criteria": {
-      "has_diamond": "2024-12-08 05:04:09 +0000"
+      "has_apple": "2024-12-08 05:56:49 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/paprika": {
+  "minecraft:recipes/decorations/oak_hanging_sign": {
     "criteria": {
-      "has_chile_peppers": "2024-12-08 05:29:54 +0000"
+      "has_stripped_logs": "2024-12-08 05:57:05 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/orange_juice": {
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
-      "has_orange": "2024-12-08 05:42:57 +0000"
+      "has_log": "2024-12-08 05:57:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2024-12-08 05:57:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-08 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-08 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-08 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-08 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-08 05:57:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/barley_seed": {
+    "criteria": {
+      "has_barley": "2024-12-08 05:58:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-08 06:00:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-12-08 06:00:06 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2024-12-08 06:00:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-08 06:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-08 06:03:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-08 06:03:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-08 06:21:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2024-12-08 06:21:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2024-12-08 06:21:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-08 06:24:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-08 06:24:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-08 06:24:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2024-12-08 06:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-08 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-08 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-08 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-08 06:32:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-08 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-12-08 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/iron_plate_from_compressing_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-08 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-12-08 06:41:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2024-12-08 06:42:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2024-12-08 06:42:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:42:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:42:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-12-08 06:42:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:42:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:42:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:42:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2024-12-08 06:42:35 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2024-12-08 06:43:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:43:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:43:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-08 06:43:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-08 06:43:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-08 06:43:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-08 06:43:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-12-08 06:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-08 06:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-08 06:43:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-08 06:43:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-08 06:43:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-12-08 06:43:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/beetroot_salad": {
+    "criteria": {
+      "has_beetroot": "2024-12-08 06:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-12-08 06:43:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2024-12-08 06:47:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_rich_soil": "2024-12-08 06:47:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-08 06:47:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 06:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-08 06:47:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2024-12-08 06:48:24 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2024-12-08 06:55:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-12-08 07:04:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-08 07:05:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-08 07:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-08 07:05:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-08 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_chestplate_repairing": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-08 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-08 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-12-08 07:06:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-08 07:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 07:06:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 07:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-08 07:06:48 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_the_recipe": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2024-12-08 07:07:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/soybean_seed": {
+    "criteria": {
+      "has_soybean": "2024-12-08 07:07:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_milk": {
+    "criteria": {
+      "has_soybean": "2024-12-08 07:07:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/tofu": {
+    "criteria": {
+      "has_soybean": "2024-12-08 07:07:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/soy_sauce": {
+    "criteria": {
+      "has_soybean": "2024-12-08 07:07:46 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2024-12-08 07:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-12-08 07:19:40 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_disc": {
+    "criteria": {
+      "has_disc": "2024-12-08 07:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-12-08 07:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-08 07:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-08 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2024-12-08 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-08 07:45:12 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/building_blocks/hot_sand_block": {
+    "criteria": {
+      "has_sand": "2024-12-08 07:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-08 07:45:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-08 07:45:16 +0000"
     },
     "done": true
   },
