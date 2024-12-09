@@ -785,6 +785,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-09 00:12:06 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_saber": {
     "criteria": {
       "has_cobblestone": "2024-12-08 23:58:41 +0000"
@@ -1109,6 +1115,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-09 00:11:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/archwood_to_chest": {
     "criteria": {
       "has_journal": "2024-12-08 23:50:27 +0000"
@@ -1385,9 +1397,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-09 00:11:52 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2024-12-08 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-09 00:11:51 +0000"
     },
     "done": true
   },
@@ -1424,6 +1448,12 @@
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2024-12-08 23:50:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-09 00:12:06 +0000"
     },
     "done": true
   },
@@ -1495,7 +1525,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-09 00:03:08 +0000"
+      "bread": "2024-12-09 00:03:08 +0000",
+      "rotten_flesh": "2024-12-09 00:13:53 +0000"
     },
     "done": false
   },
@@ -2711,6 +2742,12 @@
     },
     "done": true
   },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2024-12-09 00:07:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-08 23:53:31 +0000"
@@ -2978,6 +3015,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2024-12-08 23:54:00 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2024-12-09 00:11:52 +0000"
     },
     "done": true
   },

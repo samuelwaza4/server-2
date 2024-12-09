@@ -8,3 +8,28 @@
 [09Dec2024 00:04:33.693] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand GoldExperienceEntity['Gold Experience'/9873, l='ServerLevel[world]', x=-1455.46, y=58.06, z=-991.45, removed=DISCARDED]
 [09Dec2024 00:07:38.602] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand StarPlatinumEntity['Star Platinum'/10232, l='ServerLevel[world]', x=-1453.04, y=58.00, z=-980.79]
 [09Dec2024 00:07:38.603] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand StarPlatinumEntity['Star Platinum'/10232, l='ServerLevel[world]', x=-1453.04, y=58.00, z=-980.79, removed=DISCARDED]
+[09Dec2024 00:07:49.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo has made the advancement [Become a Mahou Tsukai!]
+[09Dec2024 00:08:03.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[09Dec2024 00:08:11.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[09Dec2024 00:08:23.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[09Dec2024 00:08:27.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[09Dec2024 00:09:16.515] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand CreamEntity['Cream'/10544, l='ServerLevel[world]', x=-1477.57, y=67.00, z=-981.10]
+[09Dec2024 00:09:16.516] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand CreamEntity['Cream'/10544, l='ServerLevel[world]', x=-1477.57, y=67.00, z=-981.10, removed=DISCARDED]
+[09Dec2024 00:09:51.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo was slain by setexgamer
+[09Dec2024 00:10:10.717] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[09Dec2024 00:10:10.718] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[09Dec2024 00:10:16.961] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand WhiteSnakeEntity['Whitesnake'/10868, l='ServerLevel[world]', x=-1478.53, y=67.00, z=-984.04]
+[09Dec2024 00:10:16.961] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand WhiteSnakeEntity['Whitesnake'/10868, l='ServerLevel[world]', x=-1478.53, y=67.00, z=-984.04, removed=DISCARDED]
+[09Dec2024 00:11:51.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo has reached the goal [Exorcism]
+[09Dec2024 00:13:43.565] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand TheHandEntity['The Hand'/10913, l='ServerLevel[world]', x=-1542.46, y=72.00, z=-1039.54]
+[09Dec2024 00:13:43.566] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand TheHandEntity['The Hand'/10913, l='ServerLevel[world]', x=-1542.46, y=72.00, z=-1039.54, removed=DISCARDED]
+[09Dec2024 00:13:54.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo was shot by setexgamer
+[09Dec2024 00:14:57.836] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand MetallicaEntity['Metallica'/11688, l='ServerLevel[world]', x=-1549.32, y=72.00, z=-1037.45]
+[09Dec2024 00:14:57.837] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand MetallicaEntity['Metallica'/11688, l='ServerLevel[world]', x=-1549.32, y=72.00, z=-1037.45, removed=DISCARDED]
+[09Dec2024 00:15:41.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[09Dec2024 00:16:34.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[09Dec2024 00:17:27.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
+[09Dec2024 00:18:18.661] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['Black_insnillo'/12532, l='ServerLevel[world]', x=-1527.50, y=71.94, z=-1036.40] died: Black_insnillo was slain by setexgamer
+[09Dec2024 00:26:00.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo was slain by Zombie
+[09Dec2024 00:26:33.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer moved too quickly! 11.051478718847193,3.0,11.150993096443472
+[09Dec2024 00:26:59.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PlayerCloneEntity['Black_insnillo'/12262, l='ServerLevel[world]', x=-1542.52, y=72.00, z=-1038.80] died: Black_insnillo was slain by setexgamer
