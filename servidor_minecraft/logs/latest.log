@@ -39,3 +39,65 @@
 [09Dec2024 00:36:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo has reached the goal [Worthy Equipment]
 [09Dec2024 00:36:29.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo has made the advancement [How'd You Get This?]
 [09Dec2024 00:36:33.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [A Throwaway Joke]
+[09Dec2024 00:39:05.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo hit the ground too hard
+[09Dec2024 00:39:51.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo was slain by Skeleton
+[09Dec2024 00:40:00.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[09Dec2024 00:40:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[09Dec2024 00:40:32.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[09Dec2024 00:40:39.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[09Dec2024 00:41:52.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo has made the advancement [Cover Me with Diamonds]
+[09Dec2024 00:42:16.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.028044049529626136,6.266986929404084E-11,10.156479084949979
+[09Dec2024 00:42:16.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.029102553566417555,6.320988177321851E-11,10.549342538191809
+[09Dec2024 00:42:16.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.030162585691186905,6.371436711560818E-11,10.942919494287707
+[09Dec2024 00:42:16.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.031223993095181868,6.414779818442184E-11,11.337138602935397
+[09Dec2024 00:42:16.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.03228663825052536,6.44959641249443E-11,11.731935648864237
+[09Dec2024 00:42:16.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.033350397382037045,6.474465408246033E-11,12.127252838332424
+[09Dec2024 00:42:16.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.03441515909185,6.490097348432755E-11,12.523038156973598
+[09Dec2024 00:42:16.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.03548082312227052,6.497913318526116E-11,12.919244791859228
+[09Dec2024 00:42:16.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.03654729924141975,6.498623861261876E-11,13.315830611354954
+[09Dec2024 00:42:16.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.03761450624006102,6.494360604847316E-11,13.712757696990707
+[09Dec2024 00:42:16.879] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.03868237103051797,6.486544634753955E-11,14.109991922144218
+[09Dec2024 00:42:16.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.039750827833358926,6.476597036453313E-11,14.507502572856538
+[09Dec2024 00:42:16.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.040819817447527385,6.465938895416912E-11,14.905262006565067
+[09Dec2024 00:42:16.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.041781908074653984,6.45599129711627E-11,15.263245487419454
+[09Dec2024 00:42:16.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.042647789616239606,6.447464784287149E-11,15.585430611653464
+[09Dec2024 00:42:16.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.043427082983043874,6.440359356929548E-11,15.875397215782527
+[09Dec2024 00:42:16.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.044128446994591286,6.434675015043467E-11,16.136367152585308
+[09Dec2024 00:42:16.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.044759674588249254,6.431122301364667E-11,16.37124008948581
+[09Dec2024 00:42:16.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04532777940744381,6.428990673157386E-11,16.582625727096456
+[09Dec2024 00:42:16.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.045839073731258395,6.428280130421626E-11,16.77287279590621
+[09Dec2024 00:42:16.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04629923861034513,6.428280130421626E-11,16.944095153299145
+[09Dec2024 00:42:16.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04671338699063199,6.429701215893147E-11,17.09819527087052
+[09Dec2024 00:42:16.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04708612052309036,6.431122301364667E-11,17.23688537301075
+[09Dec2024 00:42:16.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04742158069325342,6.433253929571947E-11,17.36170646163032
+[09Dec2024 00:42:16.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04772349483846483,6.435385557779227E-11,17.474045438411963
+[09Dec2024 00:42:16.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.047995217561947356,6.436806643250748E-11,17.575150514837105
+[09Dec2024 00:42:16.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04823976800662422,6.438227728722268E-11,17.66614508120915
+[09Dec2024 00:42:16.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04845986340092168,6.439648814193788E-11,17.748040188774553
+[09Dec2024 00:42:16.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04865794925058253,6.440359356929548E-11,17.82174578363083
+[09Dec2024 00:42:16.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.048836226510502456,6.441069899665308E-11,17.88808081724426
+[09Dec2024 00:42:16.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.0489966760403604,6.441069899665308E-11,17.94778234591479
+[09Dec2024 00:42:16.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04914108061325351,6.441069899665308E-11,18.001513720294838
+[09Dec2024 00:42:16.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.049271044725401225,6.441069899665308E-11,18.049871955955837
+[09Dec2024 00:42:16.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.049388012423378314,6.441069899665308E-11,18.09339436689777
+[09Dec2024 00:42:16.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04949328334873826,6.440359356929548E-11,18.132564535707843
+[09Dec2024 00:42:16.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04958802717897015,6.439648814193788E-11,18.167817686703074
+[09Dec2024 00:42:16.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04967329662395059,6.439648814193788E-11,18.199545521758296
+[09Dec2024 00:42:16.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04975003912250031,6.439648814193788E-11,18.22810057255151
+[09Dec2024 00:42:16.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.049819107369330595,6.439648814193788E-11,18.253800117584547
+[09Dec2024 00:42:16.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.049881268789704336,6.439648814193788E-11,18.27692970750161
+[09Dec2024 00:42:16.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.049937214066630986,6.439648814193788E-11,18.297746337875537
+[09Dec2024 00:42:16.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.04998756481450073,6.439648814193788E-11,18.316481304715694
+[09Dec2024 00:42:16.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.05003288048646937,6.439648814193788E-11,18.333342774425205
+[09Dec2024 00:42:16.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.050073664590172484,6.439648814193788E-11,18.348518096761723
+[09Dec2024 00:42:16.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.05011037028248211,6.439648814193788E-11,18.36217588650277
+[09Dec2024 00:42:16.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.05014340540469675,6.439648814193788E-11,18.37446789694411
+[09Dec2024 00:42:16.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of setexgamer) moved too quickly! -0.05017313701387138,6.439648814193788E-11,18.385530706048257
+[09Dec2024 00:42:16.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3681ms or 73 ticks behind
+[09Dec2024 00:42:34.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was drained by a corrupted enchantment.
+[09Dec2024 00:42:34.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer was slain by Corpse Fish
+[09Dec2024 00:46:21.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[09Dec2024 00:46:23.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[09Dec2024 00:46:26.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_insnillo has made the advancement [Unbreaking X]
+[09Dec2024 00:47:29.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[09Dec2024 00:47:39.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
