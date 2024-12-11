@@ -1674,3 +1674,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 13:12:27.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 hit the ground too hard
 [11Dec2024 13:12:50.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Acquire Hardware]
 [11Dec2024 13:15:03.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was eradicated by the Purple Haze
+[11Dec2024 13:16:35.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 13:16:42.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 13:17:35.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was eradicated by the Purple Haze
+[11Dec2024 13:18:14.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer has made the advancement [Far From Perfect]
+[11Dec2024 13:18:28.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Monster Hunter]
+[11Dec2024 13:19:42.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Zombie
+[11Dec2024 13:20:31.114] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[11Dec2024 13:20:31.116] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[11Dec2024 13:21:20.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 13:21:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 13:22:51.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was slain by Corpse Fly
+[11Dec2024 13:23:02.088] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Creeath the Odd'/9964, l='ServerLevel[world]', x=-1427.23, y=65.75, z=-974.07] died: Creeath the Odd was retired
+[11Dec2024 13:24:13.641] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Timed out
+[11Dec2024 13:24:13.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[11Dec2024 13:24:13.642] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[11Dec2024 13:24:13.642] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilis84
+[11Dec2024 13:24:13.695] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
