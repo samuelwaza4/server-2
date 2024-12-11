@@ -1,10 +1,4 @@
 {
-  "handcrafted:recipes/misc/spruce_counter": {
-    "criteria": {
-      "has_spruce_counter": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_flight": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -14,12 +8,6 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "mutantmonsters:root": {
-    "criteria": {
-      "killed_by_something": "2024-12-11 12:59:09 +0000"
     },
     "done": true
   },
@@ -65,12 +53,6 @@
     },
     "done": true
   },
-  "aether:recipes/transportation/skyroot_boat": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_andesite": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -80,12 +62,6 @@
   "ars_nouveau:recipes/misc/green_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/wooden_basic_shield": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -125,12 +101,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -140,12 +110,6 @@
   "ars_nouveau:recipes/misc/spike_to_arrow": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_table": {
-    "criteria": {
-      "has_spruce_table": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -173,39 +137,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2024-12-11 12:40:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2024-12-11 13:01:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sunrise_2": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2024-12-11 12:59:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
     },
     "done": true
   },
@@ -221,21 +155,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_saber": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/clear_deny": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_javelin": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -251,12 +173,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_dining_bench": {
-    "criteria": {
-      "has_spruce_dining_bench": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/polished_source_sconce": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -269,12 +185,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_quarterstaff": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_sunrise": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -284,12 +194,6 @@
   "ars_nouveau:recipes/misc/wipe_spell_parchment": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:grant_patchouli": {
-    "criteria": {
-      "tick": "2024-12-11 12:40:26 +0000"
     },
     "done": true
   },
@@ -311,33 +215,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_club": {
-    "criteria": {
-      "has_wood_log": "2024-12-11 12:42:42 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/source_berry_pie": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/bear_trophy": {
-    "criteria": {
-      "has_bear_trophy": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2024-12-11 12:40:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -362,12 +242,6 @@
   "ars_nouveau:recipes/misc/ritual_cloudshaping": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_greatsword": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -413,18 +287,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/goat_trophy": {
-    "criteria": {
-      "has_goat_trophy": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/turn_table": {
-    "criteria": {
-      "minecraft:planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/starbuncle_shades": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -434,12 +296,6 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_throwing_knife": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -461,21 +317,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_flanged_mace": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -515,39 +359,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:bornin_chaos": {
-    "criteria": {
-      "bornin_chaos_0": "2024-12-11 12:40:26 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_containment": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_corner_trim": {
-    "criteria": {
-      "has_spruce_corner_trim": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_flowering": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "heroes:root": {
-    "criteria": {
-      "Join World": "2024-12-11 12:40:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/blaze_trophy": {
-    "criteria": {
-      "has_blaze_trophy": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -563,18 +383,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_desk": {
-    "criteria": {
-      "has_spruce_desk": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sconce": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -584,12 +392,6 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_small_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wolf_trophy": {
-    "criteria": {
-      "has_wolf_trophy": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -629,12 +431,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_lance": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_basketweave_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -653,24 +449,6 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2024-12-11 12:42:42 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_longsword": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -686,12 +464,6 @@
   "ars_nouveau:recipes/misc/scribes_table": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/wooden_tower_shield": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -737,12 +509,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/bed_from_feather_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -785,21 +551,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2024-12-11 12:42:42 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/archwood_to_chest": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/earplugs": {
-    "criteria": {
-      "has_item": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -809,27 +563,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/sign_post_spruce": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/manipulation_essence_to_granite": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_katana": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -854,30 +590,6 @@
   "ars_nouveau:recipes/misc/sourceberry_sack_to_bush": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_battleaxe": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spider_trophy": {
-    "criteria": {
-      "has_spider_trophy": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_battle_hammer": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
     },
     "done": true
   },
@@ -923,12 +635,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/notice_board": {
-    "criteria": {
-      "minecraft:planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/orange_sbed": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -950,12 +656,6 @@
   "ars_nouveau:recipes/misc/water_essence_to_bucket": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_dagger": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1013,12 +713,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_drawer": {
-    "criteria": {
-      "has_spruce_drawer": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_sconce": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -1037,33 +731,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
     },
     "done": true
   },
-  "mcwdoors:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:42 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_plains": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_fancy_bed": {
-    "criteria": {
-      "has_spruce_fancy_bed": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1091,12 +767,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_tomahawk": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/alteration_table": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -1121,33 +791,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_cupboard": {
-    "criteria": {
-      "has_spruce_cupboard": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "carrot": "2024-12-11 12:51:57 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/ritual_conjure_island_desert": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/skeleton_horse_trophy": {
-    "criteria": {
-      "has_skeleton_horse_trophy": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
     },
     "done": true
   },
@@ -1169,27 +815,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wither_skeleton_trophy": {
-    "criteria": {
-      "has_wither_skeleton_trophy": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/dull_trinket": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_scythe": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1214,12 +842,6 @@
   "ars_nouveau:recipes/misc/polished_sconce": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
     },
     "done": true
   },
@@ -1259,12 +881,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_spear": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_slab": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -1280,12 +896,6 @@
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lock_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1307,18 +917,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
-    "criteria": {
-      "has_item": "2024-12-11 12:43:04 +0000"
-    },
-    "done": true
-  },
-  "jcraft:obtain_stand_disc": {
-    "criteria": {
-      "has_disc": "2024-12-11 12:51:18 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/blue_sbed": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -1334,12 +932,6 @@
   "ars_nouveau:recipes/misc/sourcestone": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_shelf": {
-    "criteria": {
-      "has_spruce_shelf": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1445,12 +1037,6 @@
     },
     "done": true
   },
-  "mowziesmobs:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-11 12:40:26 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -1472,12 +1058,6 @@
   "ars_nouveau:recipes/decorations/sourcestone_21": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
     },
     "done": true
   },
@@ -1523,33 +1103,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/salmon_trophy": {
-    "criteria": {
-      "has_salmon_trophy": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/archwood_door": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/silverfish_trophy": {
-    "criteria": {
-      "has_silverfish_trophy": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/spruce_window": {
-    "criteria": {
-      "has_ingredient": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1565,12 +1121,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/sign_post_spruce": {
-    "criteria": {
-      "has_the_recipe": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -1580,12 +1130,6 @@
   "ars_nouveau:recipes/misc/sourcestone_alternating_stairs": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "chiselsandbits:recipes/tools/bit_storage": {
-    "criteria": {
-      "has_l": "2024-12-11 12:42:42 +0000"
     },
     "done": true
   },
@@ -1601,39 +1145,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_warhammer": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "kom:king_of_the_mobsters": {
     "criteria": {
       "king_of_the_mobsters_0": "2024-12-11 12:40:25 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_pillar_trim": {
-    "criteria": {
-      "has_spruce_pillar_trim": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_large_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-11 12:42:42 +0000"
     },
     "done": true
   },
@@ -1646,18 +1166,6 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_parrying_dagger": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_rapier": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1682,18 +1190,6 @@
   "ars_nouveau:recipes/misc/mimic_scroll": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2024-12-11 13:01:46 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_boomerang": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1739,18 +1235,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2024-12-11 12:59:09 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/clock_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/challenge_2": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -1766,12 +1250,6 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1805,27 +1283,9 @@
     },
     "done": true
   },
-  "chiselsandbits:recipes/tools/chiseled_printer": {
-    "criteria": {
-      "has_l": "2024-12-11 12:42:42 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "parcool:grant_parcool_guide": {
-    "criteria": {
-      "tick": "2024-12-11 12:40:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/sc_manual": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:42 +0000"
     },
     "done": true
   },
@@ -1889,21 +1349,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_longbow": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/arcane_pedestal": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_glaive": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -1949,18 +1397,6 @@
     },
     "done": true
   },
-  "chiselsandbits:recipes/tools/modification_table": {
-    "criteria": {
-      "has_b": "2024-12-11 12:42:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -1970,12 +1406,6 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_large_bricks_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_pike": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -2003,12 +1433,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_halberd": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/deny_scroll": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -2021,21 +1445,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/speaker_block": {
-    "criteria": {
-      "minecraft:planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/blue_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/fox_trophy": {
-    "criteria": {
-      "has_fox_trophy": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -2045,63 +1457,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_couch": {
-    "criteria": {
-      "has_spruce_couch": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2024-12-11 12:51:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
-    },
-    "done": true
-  },
-  "mahoutsukai:root": {
-    "criteria": {
-      "mahoutsukai": "2024-12-11 12:43:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-11 12:44:36 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2024-12-11 12:40:26 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/tropical_fish_trophy": {
-    "criteria": {
-      "has_tropical_fish_trophy": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
     },
     "done": true
   },
@@ -2141,39 +1499,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2024-12-11 12:42:42 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/building_blocks/stripped_red_archwood_wood": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_nightstand": {
-    "criteria": {
-      "has_spruce_nightstand": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/pufferfish_trophy": {
-    "criteria": {
-      "has_pufferfish_trophy": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_bench": {
-    "criteria": {
-      "has_spruce_bench": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -2210,18 +1544,6 @@
   "ars_nouveau:recipes/misc/archwood_sconce": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
-    },
-    "done": true
-  },
-  "chiselsandbits:recipes/tools/wrench": {
-    "criteria": {
-      "has_p": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -2273,45 +1595,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/documentation": {
-    "criteria": {
-      "has_crop": "2024-12-11 12:50:58 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/allow_scroll": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-12-11 12:50:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_door": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/wilden_summon_alt": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_heavy_crossbow": {
-    "criteria": {
-      "has_wood": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -2327,29 +1619,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2024-12-11 12:40:27 +0000",
-      "minecraft:beach": "2024-12-11 12:59:12 +0000",
-      "minecraft:plains": "2024-12-11 12:43:19 +0000"
-    },
-    "done": false
-  },
   "ars_nouveau:recipes/misc/scry_to_blank_parchment": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_chair": {
-    "criteria": {
-      "has_spruce_chair": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/pulley": {
-    "criteria": {
-      "minecraft:planks": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -2371,12 +1643,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-11 12:42:53 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/magebloom_to_pink": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
@@ -2389,21 +1655,9 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2024-12-11 12:43:04 +0000"
-    },
-    "done": true
-  },
   "ars_nouveau:recipes/misc/agronomic_sourcelink": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_side_table": {
-    "criteria": {
-      "has_spruce_side_table": "2024-12-11 12:42:53 +0000"
     },
     "done": true
   },
@@ -2416,6 +1670,752 @@
   "ars_nouveau:recipes/misc/smooth_gilded_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2024-12-11 12:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-12-11 12:40:26 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-12-11 12:40:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-11 12:40:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bornin_chaos": {
+    "criteria": {
+      "bornin_chaos_0": "2024-12-11 12:40:26 +0000"
+    },
+    "done": true
+  },
+  "heroes:root": {
+    "criteria": {
+      "Join World": "2024-12-11 12:40:26 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-11 12:40:26 +0000"
+    },
+    "done": true
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-12-11 12:40:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-11 12:40:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-11 12:40:27 +0000",
+      "minecraft:beach": "2024-12-11 12:59:12 +0000",
+      "minecraft:plains": "2024-12-11 12:43:19 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/bit_storage": {
+    "criteria": {
+      "has_l": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/chiseled_printer": {
+    "criteria": {
+      "has_l": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/modification_table": {
+    "criteria": {
+      "has_b": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-11 12:42:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_saber": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/turn_table": {
+    "criteria": {
+      "minecraft:planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_throwing_knife": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_lance": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bed_from_feather_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_spruce": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_katana": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/notice_board": {
+    "criteria": {
+      "minecraft:planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_drawer": {
+    "criteria": {
+      "has_spruce_drawer": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_fancy_bed": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_cupboard": {
+    "criteria": {
+      "has_spruce_cupboard": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_spear": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lock_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_shelf": {
+    "criteria": {
+      "has_spruce_shelf": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_spruce": {
+    "criteria": {
+      "has_the_recipe": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_pillar_trim": {
+    "criteria": {
+      "has_spruce_pillar_trim": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/clock_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_pike": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/speaker_block": {
+    "criteria": {
+      "minecraft:planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_couch": {
+    "criteria": {
+      "has_spruce_couch": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_nightstand": {
+    "criteria": {
+      "has_spruce_nightstand": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_bench": {
+    "criteria": {
+      "has_spruce_bench": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "chiselsandbits:recipes/tools/wrench": {
+    "criteria": {
+      "has_p": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_chair": {
+    "criteria": {
+      "has_spruce_chair": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pulley": {
+    "criteria": {
+      "minecraft:planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_side_table": {
+    "criteria": {
+      "has_spruce_side_table": "2024-12-11 12:42:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-12-11 12:43:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-11 12:43:04 +0000"
+    },
+    "done": true
+  },
+  "mahoutsukai:root": {
+    "criteria": {
+      "mahoutsukai": "2024-12-11 12:43:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-11 12:44:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-11 12:50:58 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2024-12-11 12:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-11 12:50:58 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_stand_disc": {
+    "criteria": {
+      "has_disc": "2024-12-11 12:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2024-12-11 12:51:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-11 12:51:57 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_by_something": "2024-12-11 12:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-12-11 12:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-11 12:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-11 13:01:46 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2024-12-11 13:01:46 +0000"
     },
     "done": true
   },
