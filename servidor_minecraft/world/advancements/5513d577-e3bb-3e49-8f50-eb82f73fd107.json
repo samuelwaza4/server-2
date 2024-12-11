@@ -2471,6 +2471,7 @@
       "tomato_seed": "2024-12-08 00:47:51 +0000",
       "pepper_seed": "2024-12-08 05:56:07 +0000",
       "chile_pepper_seed": "2024-12-08 05:30:03 +0000",
+      "cabbage_seed": "2024-12-11 13:28:57 +0000",
       "tomatillo_seed": "2024-12-08 00:40:20 +0000",
       "soybean_seed": "2024-12-08 07:07:47 +0000",
       "barley_seed": "2024-12-08 05:58:05 +0000",
@@ -6511,6 +6512,7 @@
       "sweetpotato_seed": "2024-12-08 05:19:09 +0000",
       "pepper_seed": "2024-12-08 05:56:07 +0000",
       "chile_pepper_seed": "2024-12-08 05:30:03 +0000",
+      "cabbage_seed": "2024-12-11 13:28:57 +0000",
       "corn_seed": "2024-12-08 05:42:55 +0000",
       "oat_seed": "2024-12-08 05:54:37 +0000",
       "mustard_seed": "2024-12-08 05:56:13 +0000",
@@ -8770,6 +8772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-11 13:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
@@ -8806,6 +8814,18 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/green_industrial_lamp": {
+    "criteria": {
+      "has_green_industrial_lamp": "2024-12-11 13:30:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/borscht": {
+    "criteria": {
+      "has_cabbage": "2024-12-11 13:28:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
@@ -8815,6 +8835,12 @@
   "aether:recipes/combat/iron_chestplate_repairing": {
     "criteria": {
       "has_iron_chestplate": "2024-12-11 12:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2024-12-11 13:30:29 +0000"
     },
     "done": true
   },
@@ -8956,9 +8982,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-11 13:30:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_green_dye": "2024-12-11 13:30:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/cabbage_roll": {
+    "criteria": {
+      "has_cabbage": "2024-12-11 13:28:57 +0000"
     },
     "done": true
   },
@@ -8971,6 +9015,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_green_dye": {
+    "criteria": {
+      "forge:dyes/green": "2024-12-11 13:30:29 +0000"
     },
     "done": true
   },
@@ -9046,6 +9096,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_axe_repairing": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-11 13:26:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
@@ -9094,6 +9150,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/cabbage_seed": {
+    "criteria": {
+      "has_cabbage": "2024-12-11 13:28:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
@@ -9106,9 +9168,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-11 13:25:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2024-12-11 13:22:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2024-12-11 13:30:29 +0000"
     },
     "done": true
   },
@@ -9142,6 +9222,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-11 13:25:49 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2024-12-11 13:18:14 +0000"
@@ -9163,6 +9249,30 @@
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2024-12-11 13:19:48 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_green_industrial_lamp": {
+    "criteria": {
+      "has_small_green_industrial_lamp": "2024-12-11 13:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-11 13:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-11 13:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2024-12-11 13:30:29 +0000"
     },
     "done": true
   },
@@ -9217,6 +9327,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/goulash": {
+    "criteria": {
+      "has_cabbage": "2024-12-11 13:28:57 +0000"
     },
     "done": true
   },

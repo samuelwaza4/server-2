@@ -1691,3 +1691,59 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 13:24:13.642] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
 [11Dec2024 13:24:13.642] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilis84
 [11Dec2024 13:24:13.695] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Dec2024 13:25:52.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 13:25:55.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 13:26:36.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ilis84[/100.81.43.74:50330] logged in with entity id 11576 at (-1486.706904228182, 68.0, -983.6719906628423)
+[11Dec2024 13:26:36.625] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ilis84
+[11Dec2024 13:26:36.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ilis84
+[11Dec2024 13:26:36.627] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ilis84
+[11Dec2024 13:26:36.628] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ilis84
+[11Dec2024 13:26:36.631] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ilis84
+[11Dec2024 13:26:36.634] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ilis84
+[11Dec2024 13:26:36.635] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ilis84
+[11Dec2024 13:26:36.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 joined the game
+[11Dec2024 13:26:37.294] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[11Dec2024 13:26:37.304] [Server thread/INFO] [Jade/]: Syncing config to ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad)
+[11Dec2024 13:26:38.859] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ilis84 (18)
+[11Dec2024 13:26:38.861] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ilis84
+[11Dec2024 13:26:38.905] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was loaded
+[11Dec2024 13:26:40.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 13:26:42.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 13:27:04.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 517ca148-3739-31a2-b86a-39bc4ab36cad
+[11Dec2024 13:27:05.211] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 517ca148-3739-31a2-b86a-39bc4ab36cad
+[11Dec2024 13:27:05.212] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ilis84 (517ca148-3739-31a2-b86a-39bc4ab36cad) successfully connected to voice chat
+[11Dec2024 13:29:37.742] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element jcraft:cinderella took 47 ms
+[11Dec2024 13:29:50.488] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 13:29:54.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to -2159.500000, 64.000000, -1423.500000]
+[11Dec2024 13:29:54.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7523ms or 150 ticks behind
+[11Dec2024 13:30:08.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[11Dec2024 13:31:22.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Summoned new Cinderella]
+[11Dec2024 13:31:31.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 13:31:35.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2270, y=56, z=-1249} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 13:31:35.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2270, y=56, z=-1249}
+[11Dec2024 13:31:35.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2272, y=56, z=-1251} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 13:31:35.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2272, y=56, z=-1251}
+[11Dec2024 13:31:35.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2272, y=56, z=-1249} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 13:31:35.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2272, y=56, z=-1249}
+[11Dec2024 13:31:35.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-2270, y=56, z=-1251} but found not block entity block Block{minecraft:air} at location
+[11Dec2024 13:31:35.923] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-2270, y=56, z=-1251}
+[11Dec2024 13:31:37.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 13:32:44.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [An Extra Seedy Place]
+[11Dec2024 13:32:46.659] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 13:32:46.663] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 13:32:52.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 3000.500000, 68.000000, -1418.300000]
+[11Dec2024 13:32:52.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6414ms or 128 ticks behind
+[11Dec2024 13:32:55.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 13:33:02.161] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 13:33:04.649] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element jcraft:cinderella took 0 ms
+[11Dec2024 13:33:15.342] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[11Dec2024 13:33:22.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported setexgamer to 2784.500000, 68.000000, -1583.500000]
+[11Dec2024 13:33:22.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10598ms or 211 ticks behind
+[11Dec2024 13:33:22.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! -5.6768862768085455,0.2522033402537289,8.280687444811292
+[11Dec2024 13:33:43.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 13:33:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[11Dec2024 13:34:02.959] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=125}
+[11Dec2024 13:34:02.960] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-45, y=181, z=127}
+[11Dec2024 13:34:02.961] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
+[11Dec2024 13:34:41.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 13:34:48.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
