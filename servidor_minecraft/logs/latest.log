@@ -1635,3 +1635,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 12:51:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
 [11Dec2024 12:52:37.939] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand MetallicaEntity['Metallica'/3661, l='ServerLevel[world]', x=-1457.51, y=58.00, z=-986.45]
 [11Dec2024 12:52:37.940] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand MetallicaEntity['Metallica'/3661, l='ServerLevel[world]', x=-1457.51, y=58.00, z=-986.45, removed=DISCARDED]
+[11Dec2024 12:55:29.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 12:55:31.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 12:58:08.460] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand KingCrimsonEntity['King Crimson'/4124, l='ServerLevel[world]', x=-1453.43, y=58.00, z=-985.46]
+[11Dec2024 12:58:08.461] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand KingCrimsonEntity['King Crimson'/4124, l='ServerLevel[world]', x=-1453.43, y=58.00, z=-985.46, removed=DISCARDED]
+[11Dec2024 12:59:09.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 was retired
+[11Dec2024 12:59:16.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[11Dec2024 12:59:24.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Sweet Dreams]
+[11Dec2024 13:01:46.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Cover Me with Diamonds]
+[11Dec2024 13:04:11.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 lost connection: Disconnected
+[11Dec2024 13:04:11.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 left the game
+[11Dec2024 13:04:11.894] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 517ca148-3739-31a2-b86a-39bc4ab36cad was unloaded
+[11Dec2024 13:04:11.896] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ilis84
+[11Dec2024 13:04:56.340] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a2d48c2[id=<null>,name=ilis84,properties={},legacy=false] (/100.81.43.74:57061) lost connection: Disconnected
