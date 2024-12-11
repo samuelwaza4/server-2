@@ -3301,7 +3301,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-11 13:18:28 +0000"
+      "minecraft:skeleton": "2024-12-11 13:18:28 +0000",
+      "minecraft:enderman": "2024-12-11 13:45:55 +0000"
     },
     "done": false
   },
@@ -3593,6 +3594,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-11 13:42:51 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/combat/knife_bundle": {
+    "criteria": {
+      "has_knife": "2024-12-11 13:45:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_katana": {
     "criteria": {
       "has_cobblestone": "2024-12-11 13:38:42 +0000"
@@ -3743,6 +3756,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/peach_sapling": {
+    "criteria": {
+      "has_peach": "2024-12-11 13:46:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-11 13:28:35 +0000"
@@ -3764,6 +3783,12 @@
   "croptopia:recipes/misc/chile_pepper_seed": {
     "criteria": {
       "has_chile_pepper": "2024-12-11 13:30:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/peach_jam": {
+    "criteria": {
+      "has_peach": "2024-12-11 13:46:43 +0000"
     },
     "done": true
   },

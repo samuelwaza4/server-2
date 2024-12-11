@@ -8941,6 +8941,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-11 13:42:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
@@ -9085,6 +9091,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/combat/knife_bundle": {
+    "criteria": {
+      "has_knife": "2024-12-11 13:42:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
@@ -9208,6 +9220,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-11 13:42:25 +0000"
     },
     "done": true
   },
@@ -9364,6 +9382,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-11 13:42:25 +0000"
     },
     "done": true
   },

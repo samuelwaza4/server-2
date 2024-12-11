@@ -1759,3 +1759,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 13:39:25.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
 [11Dec2024 13:40:27.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Gave 64 [Bread] to setexgamer]
 [11Dec2024 13:42:51.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Exorcism]
+[11Dec2024 13:55:58.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Disconnected
+[11Dec2024 13:55:58.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
+[11Dec2024 13:55:58.184] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
+[11Dec2024 13:55:58.184] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client setexgamer

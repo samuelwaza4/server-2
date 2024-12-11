@@ -17343,3 +17343,88 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 13:45:19.789] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [11Dec2024 13:45:19.790] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
 [11Dec2024 13:45:19.790] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:47:00.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 13:47:00.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 13:52:00.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 13:52:00.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 13:55:58.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: setexgamer lost connection: Disconnected
+[11Dec2024 13:55:58.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: setexgamer left the game
+[11Dec2024 13:55:58.184] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 5513d577-e3bb-3e49-8f50-eb82f73fd107 was unloaded
+[11Dec2024 13:55:58.184] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of setexgamer
+[11Dec2024 13:55:58.184] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client setexgamer
+[11Dec2024 13:55:58.189] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.211] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.228] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.246] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.270] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.270] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.287] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.310] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.329] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.352] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.369] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.390] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.406] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.429] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.447] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.469] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.487] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.510] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.528] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.552] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.572] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.589] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.607] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.632] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.667] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.690] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.713] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.731] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.749] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.773] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.791] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.807] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.832] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.849] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.867] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.894] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.907] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.932] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.948] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.971] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:58.989] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.009] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.026] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.049] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.072] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.089] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.107] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.131] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.147] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.172] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.187] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.211] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.229] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.246] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.268] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.291] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.309] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.327] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.351] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.367] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.386] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.409] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.426] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.449] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.466] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.489] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.511] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.529] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.547] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.569] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.586] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.610] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.647] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.647] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
+[11Dec2024 13:55:59.694] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player 5513d577-e3bb-3e49-8f50-eb82f73fd107 does not have a secret
