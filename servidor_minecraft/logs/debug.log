@@ -17308,3 +17308,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [11Dec2024 13:34:02.961] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-47, y=181, z=127}
 [11Dec2024 13:34:41.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
 [11Dec2024 13:34:48.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 13:35:46.265] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4452ms or 89 ticks behind
+[11Dec2024 13:35:46.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ilis84 moved too quickly! 7.66482966449621,-5.145106700651638,-4.4288496751623825
+[11Dec2024 13:35:51.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Teleported ilis84 to setexgamer]
+[11Dec2024 13:36:11.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 13:36:19.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 13:36:37.590] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand KingCrimsonEntity['King Crimson'/14248, l='ServerLevel[world]', x=-1455.08, y=58.06, z=-991.31]
+[11Dec2024 13:36:37.590] [Server thread/WARN] [jcraft/]: StandType is null despite non-null stand KingCrimsonEntity['King Crimson'/14248, l='ServerLevel[world]', x=-1455.08, y=58.06, z=-991.31, removed=DISCARDED]
+[11Dec2024 13:37:00.659] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 13:37:00.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 13:38:42.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has made the advancement [Stone Age]
+[11Dec2024 13:39:18.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Creative Mode]
+[11Dec2024 13:39:25.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Set own game mode to Survival Mode]
+[11Dec2024 13:40:27.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [setexgamer: Gave 64 [Bread] to setexgamer]
+[11Dec2024 13:42:00.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 13:42:00.693] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 13:42:51.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ilis84 has reached the goal [Exorcism]
+[11Dec2024 13:43:46.688] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:43:46.690] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:43:46.691] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:43:46.737] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:43:46.739] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:43:46.788] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:43:46.789] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:43:46.790] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:43:46.838] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:43:50.793] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 13:43:51.988] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[11Dec2024 13:44:05.639] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:45:10.040] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:45:19.787] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:45:19.788] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:45:19.789] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:45:19.789] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:45:19.790] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[11Dec2024 13:45:19.790] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!

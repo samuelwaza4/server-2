@@ -1725,6 +1725,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-11 12:40:27 +0000",
       "minecraft:beach": "2024-12-11 12:59:12 +0000",
+      "minecraft:forest": "2024-12-11 13:32:14 +0000",
       "minecraft:plains": "2024-12-11 12:43:19 +0000"
     },
     "done": false
@@ -2380,6 +2381,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2024-12-11 13:28:52 +0000",
+      "apple": "2024-12-11 13:33:02 +0000",
+      "bread": "2024-12-11 13:41:53 +0000",
       "carrot": "2024-12-11 12:51:57 +0000"
     },
     "done": false
@@ -3368,9 +3371,75 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-11 13:32:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_glaive": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_pork": "2024-12-11 13:28:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_longsword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_battle_hammer": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/stone_wand": {
+    "criteria": {
+      "has_item": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "jcraft:recipes/misc/dios_diary": {
+    "criteria": {
+      "has_diary_page": "2024-12-11 13:39:35 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_diary_page": {
+    "criteria": {
+      "has_diary_page": "2024-12-11 13:39:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-11 13:32:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_boomerang": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-11 13:40:40 +0000"
     },
     "done": true
   },
@@ -3380,15 +3449,57 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_battleaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_6": "2024-12-11 13:28:08 +0000"
     },
     "done": false
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "chile_pepper_seed": "2024-12-11 13:32:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-11 13:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-11 13:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_rapier": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
     },
     "done": true
   },
@@ -3398,9 +3509,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_saber": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_scythe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pepperoni": {
     "criteria": {
       "has_pepper": "2024-12-11 13:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
     },
     "done": true
   },
@@ -3410,9 +3557,63 @@
     },
     "done": true
   },
+  "supplementaries:recipes/checker": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-12-11 13:40:40 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-11 13:40:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_avocado_toast": {
+    "criteria": {
+      "has_avocado": "2024-12-11 13:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_katana": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/grease_ball": {
     "criteria": {
       "has_meat": "2024-12-11 13:28:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
     },
     "done": true
   },
@@ -3422,9 +3623,75 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_throwing_knife": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2024-12-11 13:28:35 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2024-12-11 13:32:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_tomahawk": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/quesadilla": {
+    "criteria": {
+      "has_avocado": "2024-12-11 13:33:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-11 13:40:40 +0000"
     },
     "done": true
   },
@@ -3440,6 +3707,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/stone_greatsword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/carnitas": {
     "criteria": {
       "has_porkchop": "2024-12-11 13:28:35 +0000"
@@ -3449,6 +3722,24 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 13:28:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_parrying_dagger": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-12-11 13:32:59 +0000"
     },
     "done": true
   },
@@ -3473,6 +3764,90 @@
   "croptopia:recipes/misc/chile_pepper_seed": {
     "criteria": {
       "has_chile_pepper": "2024-12-11 13:30:15 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_quarterstaff": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_flanged_mace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_apple": "2024-12-11 13:32:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_javelin": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_pike": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "chile_pepper_seed": "2024-12-11 13:32:44 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/stone_warhammer": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_dagger": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-11 13:38:42 +0000"
     },
     "done": true
   },

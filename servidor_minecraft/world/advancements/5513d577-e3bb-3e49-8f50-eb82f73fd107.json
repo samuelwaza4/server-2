@@ -1726,6 +1726,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-09 00:50:55 +0000",
       "minecraft:taiga": "2024-12-08 00:32:02 +0000",
       "minecraft:frozen_river": "2024-12-08 23:44:33 +0000",
+      "minecraft:cherry_grove": "2024-12-11 13:32:53 +0000",
       "minecraft:beach": "2024-12-08 00:35:15 +0000",
       "minecraft:river": "2024-12-08 00:33:16 +0000",
       "minecraft:snowy_plains": "2024-12-08 05:15:41 +0000",
@@ -8796,6 +8797,12 @@
     },
     "done": true
   },
+  "jcraft:recipes/misc/dios_diary": {
+    "criteria": {
+      "has_diary_page": "2024-12-11 13:39:24 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_light_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-11 13:16:41 +0000"
@@ -8811,6 +8818,12 @@
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-11 13:16:41 +0000"
+    },
+    "done": true
+  },
+  "jcraft:obtain_diary_page": {
+    "criteria": {
+      "has_diary_page": "2024-12-11 13:39:24 +0000"
     },
     "done": true
   },
